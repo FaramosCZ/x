@@ -5,3 +5,7 @@ https://www.apkmirror.com/apk/sika524/quickshortcutmaker/quickshortcutmaker-2-4-
 https://quickshortcutmaker.en.softonic.com/android
 
 [com.android.settings](com.android.settings)
+
+https://www.youtube.com
+
+mailto:test@test.com
